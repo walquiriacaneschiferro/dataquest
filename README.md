@@ -3,4 +3,5 @@
 ## Dataquest - Projects
 
 - Exploring Hacker News Posts
+- Visualizing Earnings Based On College Majors
 - Visualizing The Gender Gap In College Degrees
